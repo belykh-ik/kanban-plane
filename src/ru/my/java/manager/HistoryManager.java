@@ -1,8 +1,8 @@
-package ru.practicum.java.manager;
-
-import ru.practicum.java.tasks.Task;
+package ru.my.java.manager;
 
 import java.util.List;
+
+import ru.my.java.tasks.Task;
 
 public interface HistoryManager {
     void add(Task task);

@@ -1,8 +1,8 @@
-package ru.practicum.java.manager;
-
-import ru.practicum.java.tasks.Task;
+package ru.my.java.manager;
 
 import java.util.*;
+
+import ru.my.java.tasks.Task;
 
 public class InMemoryHistoryManager implements HistoryManager {
 

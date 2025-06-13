@@ -1,4 +1,4 @@
-package ru.practicum.java.tasks;
+package ru.my.java.tasks;
 
 import java.util.ArrayList;
 import java.util.List;

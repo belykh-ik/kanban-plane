@@ -1,6 +1,6 @@
-import ru.practicum.java.manager.Managers;
-import ru.practicum.java.manager.TaskManager;
-import ru.practicum.java.tasks.*;
+import ru.my.java.manager.Managers;
+import ru.my.java.manager.TaskManager;
+import ru.my.java.tasks.*;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package ru.practicum.java.tasks;
+package ru.my.java.tasks;
 
 public class Subtask extends Task {
 

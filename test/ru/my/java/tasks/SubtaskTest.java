@@ -1,8 +1,9 @@
-package ru.practicum.java.tasks;
+package ru.my.java.tasks;
 
 import org.junit.jupiter.api.Test;
-import ru.practicum.java.manager.Managers;
-import ru.practicum.java.manager.TaskManager;
+
+import ru.my.java.manager.Managers;
+import ru.my.java.manager.TaskManager;
 
 import static org.junit.jupiter.api.Assertions.*;
 

@@ -1,11 +1,11 @@
-package ru.practicum.java.manager;
-
-import ru.practicum.java.tasks.Epic;
-import ru.practicum.java.tasks.Status;
-import ru.practicum.java.tasks.Subtask;
-import ru.practicum.java.tasks.Task;
+package ru.my.java.manager;
 
 import java.util.*;
+
+import ru.my.java.tasks.Epic;
+import ru.my.java.tasks.Status;
+import ru.my.java.tasks.Subtask;
+import ru.my.java.tasks.Task;
 
 public class InMemoryTaskManager implements TaskManager {
 

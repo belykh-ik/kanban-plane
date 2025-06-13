@@ -1,11 +1,12 @@
-package ru.practicum.java.manager;
+package ru.my.java.manager;
 
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
 
-import ru.practicum.java.tasks.Epic;
-import ru.practicum.java.tasks.Subtask;
-import ru.practicum.java.tasks.Task;
+import ru.my.java.tasks.Epic;
+import ru.my.java.tasks.Subtask;
+import ru.my.java.tasks.Task;
+
+import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.List;
 

@@ -1,11 +1,11 @@
-package ru.practicum.java.manager;
-
-import ru.practicum.java.tasks.Epic;
-import ru.practicum.java.tasks.Subtask;
-import ru.practicum.java.tasks.Task;
+package ru.my.java.manager;
 
 import java.util.List;
 import java.util.Map;
+
+import ru.my.java.tasks.Epic;
+import ru.my.java.tasks.Subtask;
+import ru.my.java.tasks.Task;
 
 public interface TaskManager {
     int addTask(Task task);
